@@ -1,1 +1,5 @@
 48
+
+name=raju
+age=26
+place=calicut
